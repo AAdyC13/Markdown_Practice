@@ -1,15 +1,23 @@
 # AAdy
-## 「關於我」
-+ Python編程
-+ Java編程
-+ **JavaScript編程**
-*座右銘-寫code我會加註釋*
-[ https://store.steampowered.com/ ]
-![ https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fgroups%2FNFFUST%2F&psig=AOvVaw0lYBOS5AG4Ri7lFeP2UuDc&ust=1758093127707000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKC0xbXd3I8DFQAAAAAdAAAAABAE ]
-> 這節課就先到這邊，下周再繼續講。 --最喜歡的教授
 
+## 關於我
+- Python 編程  
+- Java 編程  
+- **JavaScript 編程**  
+
+*座右銘：寫 code 我會加註釋*  
+
+[Steam 商店](https://store.steampowered.com/)  
+
+![高第一]([https://scontent.ftpe8-4.fna.fbcdn.net/v/t39.30808-6/298699408_596597145378381_2216891759741642186_n.jpg](https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqs9CbGt6FhfW3-CrG0C5xU7wzxd-TcIPYsmDEs5x3X1SiRtee7CJlKazM7Pkt2AhQFbe197jQo3hyyk5pPXExYAHn8rZWJT1eDm66ufKz6ULOihy244dMIlaIi3ctGRMox704dTw=s680-w680-h510-rw))  
+
+> 這節課就先到這邊，下周再繼續講。  
+> —— 最喜歡的教授  
+
+|:--------:|:--------:|
 | 工作經驗 | 校內助教 |
-|:---:|:---:|
 | 教育背景 | 高雄科大 |
 
-``` print("Hello, Python")
+```python
+print("Hello, Python")
+```
